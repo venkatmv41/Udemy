@@ -1,3 +1,6 @@
+#  simple code representing to take inputs and printing outputs
+
+
 #1. Create a greeting for your program.
 print("welcome to your first project")
 #2. Ask the user for the city that they grew up in.
