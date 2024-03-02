@@ -10,4 +10,7 @@ This is the repository of projects i have done while learning **python** from th
 **[ Rock paper scissor game](project4_rps_game.py)** - Created a Rock,Paper,Scissor game with random module and conditional statements- If/Else 
 #### 5. Day 5 -- Project 5 
 **[ Password Generator ](project5-password-generator.py)** - Developed a password generator with For loops, that can generate a complex password containing alphanumeric and symbols.
+#### 6. Day 6 -- Project 6
+**[ Maze puzzle ](project6.py)** This is a test to evaluate problem-solving skills
+
 
