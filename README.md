@@ -12,5 +12,6 @@ This is the repository of projects i have done while learning **python** from th
 **[ Password Generator ](project5-password-generator.py)** - Developed a password generator with For loops, that can generate a complex password containing alphanumeric and symbols.
 #### 6. Day 6 -- Project 6
 **[ Maze puzzle ](project6.py)** This is a test to evaluate problem-solving skills
-
+#### 7. Day 7 -- Project 7
+**[ Hangman game ](project7/main.py)** Create a game with all python concepts i.e. loops, If/else, game that guesses a word
 
