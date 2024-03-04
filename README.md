@@ -14,4 +14,6 @@ This is the repository of projects i have done while learning **python** from th
 **[ Maze puzzle ](project6.py)** This is a test to evaluate problem-solving skills
 #### 7. Day 7 -- Project 7
 **[ Hangman game ](project7/main.py)** Create a game with all python concepts i.e. loops, If/else, game that guesses a word
-
+#### 8. Day 8 -- Project 8
+**[ Caseear cipher encoder/decoder](project8_caesar_cipher.py)
+** Created a Program that implements a caesar cipher to encode and decode text/messages by shiftng forward the characters
