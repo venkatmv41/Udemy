@@ -15,9 +15,8 @@ This is the repository of projects i have done while learning **python** from th
 #### 7. Day 7 -- Project 7
 **[ Hangman game ](project7/main.py)** Create a game with all python concepts i.e. loops, If/else, game that guesses a word
 #### 8. Day 8 -- Project 8
-**[ Caesar cipher encoder/decoder](project8_caesar_cipher.py)** 
-Created a Program that implements a caesar cipher to encode and decode text/messages by shiftng forward the characters
-**[ Blind Auction](project9_auction.py)** 
-Created a Program that implements a blind auction, where name and bid price is taken and highest bidder is printed out among the inputs given.
+**[ Caesar cipher encoder/decoder](project8_caesar_cipher.py)** Created a Program that implements a caesar cipher to encode and decode text/messages by shiftng forward the characters
+#### 9. Day 9 -- Project 9
+**[ Blind Auction](project9_auction.py)** Created a Program that implements a blind auction, where name and bid price is taken and highest bidder is printed out among the inputs given.
 
 
