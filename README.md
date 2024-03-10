@@ -18,5 +18,5 @@ This is the repository of projects i have done while learning **python** from th
 **[ Caesar cipher encoder/decoder](project8_caesar_cipher.py)** Created a Program that implements a caesar cipher to encode and decode text/messages by shiftng forward the characters
 #### 9. Day 9 -- Project 9
 **[ Blind Auction](project9_auction.py)** Created a Program that implements a blind auction, where name and bid price is taken and highest bidder is printed out among the inputs given.
-
-
+#### 10. Day 10 -- Project 10
+**[Basic Calculator](project10_calculator_basic.py)** Created a basic arithmetic calculator
